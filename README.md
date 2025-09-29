@@ -1,5 +1,7 @@
 # Spatial and single-cell Transcriptomics Integration Tool for CHaracterization (STITCH)
 
+**This repo is retired. Refer to the latest repo [here](https://github.com/dimi-lab/STITCH) from dimi-lab.** 
+
 ## Introduction
 This Nextflow pipeline provides a comprehensive framework for tertiary analysis of Visium spatial transcriptomics data and single-cell RNA-sequencing (scRNA-seq). The pipeline includes the following modules:
 
